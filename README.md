@@ -101,3 +101,21 @@ python manage.py test
 
 ## **🤖 CI con GitHub Actions**
 Workflow en `.github/workflows/django.yml`: instala deps, migra y corre tests en cada push/PR a `main`.
+
+Licencia
+
+Indicar si el proyecto es libre (ej. MIT, GPL) o de uso interno.
+
+Ejemplo: ## 📜 Licencia → MIT License.
+
+Guía de Contribución
+
+Si más personas van a colaborar: pasos para hacer pull requests, ramas, estilo de código.
+
+Ejemplo: ## 🤝 Contribución.
+
+Uso del Proyecto (Ejemplo práctico)
+
+Un ejemplo de cómo se ve el CRUD (capturas o un GIF).
+
+Ejemplo de comandos para crear un curso desde el admin o desde el frontend.
